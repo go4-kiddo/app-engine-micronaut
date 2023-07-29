@@ -1,4 +1,4 @@
-package biz.turnonline.ecosystem;
+package cloud.kiddo.skeleton;
 
 import io.micronaut.http.HttpRequest;
 import io.micronaut.http.client.HttpClient;

@@ -1,4 +1,4 @@
-package biz.turnonline.ecosystem;
+package cloud.kiddo.skeleton;
 
 import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;

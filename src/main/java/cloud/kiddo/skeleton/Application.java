@@ -1,4 +1,4 @@
-package biz.turnonline.ecosystem;
+package cloud.kiddo.skeleton;
 
 import io.micronaut.context.ApplicationContextBuilder;
 import io.micronaut.context.ApplicationContextConfigurer;
